@@ -1,0 +1,19 @@
+header,footer{
+    height: 70px;
+    background-color: #7431FA;
+    border:1px dashed red;
+}
+footer{
+    height: 270px;
+    background-color: #F8F9FA;
+}
+main{
+    height:1000px;
+    border:1px dashed green;
+}
+.a_cont{
+    border:1px dashed blue;
+}
+.tbdr{
+    border:1px dashed #000;
+}
